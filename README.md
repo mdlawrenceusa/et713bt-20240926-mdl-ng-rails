@@ -1,0 +1,1 @@
+# et713bt-20240926-mdl-ng-rails
